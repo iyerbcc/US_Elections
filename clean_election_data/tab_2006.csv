@@ -1,0 +1,578 @@
+0,0,UNITED_STATES-Total,UNITED_STATES-Total,"220,603","201,073","135,847",61.6,0.3,67.6,0.3,"96,119",43.6,0.3,47.8,0.3
+1,1,.Male,.Male,"106,531","96,144","63,425",59.5,0.4,66.0,0.4,"45,118",42.4,0.4,46.9,0.4
+2,2,.Female,.Female,"114,073","104,928","72,422",63.5,0.4,69.0,0.4,"51,001",44.7,0.4,48.6,0.4
+3,3,.White alone,.White alone,"179,873","165,637","115,135",64.0,0.3,69.5,0.3,"82,387",45.8,0.3,49.7,0.3
+4,4,..White non-Hispanic alone,..White non-Hispanic alone,"152,998","149,761","106,620",69.7,0.3,71.2,0.3,"77,280",50.5,0.4,51.6,0.4
+5,5,.Black alone,.Black alone,"25,722","24,229","14,765",57.4,1.1,60.9,1.0,"9,937",38.6,1.0,41.0,1.0
+6,6,.Asian alone,.Asian alone,"9,855","6,614","3,245",32.9,1.7,49.1,1.8,"2,145",21.8,1.5,32.4,1.7
+7,7,.Hispanic (of any race),.Hispanic (of any race),"28,945","17,315","9,304",32.1,1.2,53.7,1.3,"5,595",19.3,1.0,32.3,1.2
+8,8,.White alone or in combination,.White alone or in combination,"182,564","168,120","116,702",63.9,0.3,69.4,0.3,"83,368",45.7,0.3,49.6,0.3
+9,9,.Black alone or in combination ,.Black alone or in combination ,"26,375","24,814","15,142",57.4,1.0,61.0,1.0,"10,169",38.6,1.0,41.0,1.0
+10,10,.Asian alone or in combination,.Asian alone or in combination,"10,474","7,182","3,544",33.8,1.6,49.3,1.7,"2,350",22.4,1.5,32.7,1.6
+11,11,ALABAMA-Total,ALABAMA-Total,"3,447","3,353","2,480",72.0,2.1,74.0,2.0,"1,667",48.4,2.3,49.7,2.3
+12,12,.Male,.Male,"1,638","1,566","1,187",72.5,3.0,75.8,2.9,792,48.4,3.4,50.6,3.4
+13,13,.Female,.Female,"1,809","1,786","1,293",71.5,2.9,72.4,2.9,875,48.4,3.2,49.0,3.2
+14,14,.White alone,.White alone,"2,500","2,430","1,824",73.0,2.4,75.1,2.4,"1,241",49.6,2.7,51.1,2.7
+15,15,..White non-Hispanic alone,..White non-Hispanic alone,"2,431","2,414","1,811",74.5,2.4,75.0,2.4,"1,228",50.5,2.8,50.9,2.8
+16,16,.Black alone,.Black alone,839,839,602,71.8,5.1,71.8,5.1,401,47.8,5.7,47.8,5.7
+17,17,.Asian alone,.Asian alone,29,6,3,(B),(B),(B),(B),-,(B),(B),(B),(B)
+18,18,.Hispanic (of any race),.Hispanic (of any race),69,16,13,(B),(B),(B),(B),13,(B),(B),(B),(B)
+19,19,.White alone or in combination,.White alone or in combination,"2,561","2,491","1,861",72.7,2.4,74.7,2.4,"1,255",49.0,2.7,50.4,2.7
+20,20,.Black alone or in combination ,.Black alone or in combination ,854,854,609,71.4,5.1,71.4,5.1,405,47.5,5.7,47.5,5.7
+21,21,.Asian alone or in combination,.Asian alone or in combination,36,12,7,(B),(B),(B),(B),-,(B),(B),(B),(B)
+22,22,ALASKA-Total,ALASKA-Total,469,452,333,70.9,2.0,73.6,2.0,248,52.9,2.3,54.9,2.2
+23,23,.Male,.Male,237,228,162,68.6,2.9,71.2,2.9,119,50.1,3.2,52.0,3.2
+24,24,.Female,.Female,232,224,170,73.3,2.8,76.2,2.7,129,55.7,3.2,57.9,3.2
+25,25,.White alone,.White alone,356,350,264,74.1,2.3,75.5,2.2,202,56.8,2.6,57.8,2.6
+26,26,..White non-Hispanic alone,..White non-Hispanic alone,346,342,260,75.0,2.3,75.9,2.2,199,57.4,2.6,58.1,2.6
+27,27,.Black alone,.Black alone,14,14,7,(B),(B),(B),(B),6,(B),(B),(B),(B)
+28,28,.Asian alone,.Asian alone,24,14,7,(B),(B),(B),(B),4,(B),(B),(B),(B)
+29,29,.Hispanic (of any race),.Hispanic (of any race),14,10,7,(B),(B),(B),(B),5,(B),(B),(B),(B)
+30,30,.White alone or in combination,.White alone or in combination,384,377,283,73.8,2.2,75.0,2.2,215,56.0,2.5,56.9,2.5
+31,31,.Black alone or in combination ,.Black alone or in combination ,15,15,8,(B),(B),(B),(B),6,(B),(B),(B),(B)
+32,32,.Asian alone or in combination,.Asian alone or in combination,29,19,11,(B),(B),(B),(B),6,(B),(B),(B),(B)
+33,33,ARIZONA-Total,ARIZONA-Total,"4,418","3,828","2,378",53.8,2.3,62.1,2.2,"1,777",40.2,2.2,46.4,2.3
+34,34,.Male,.Male,"2,161","1,861","1,101",50.9,3.3,59.2,3.2,797,36.9,3.1,42.8,3.2
+35,35,.Female,.Female,"2,257","1,968","1,277",56.6,3.2,64.9,3.0,980,43.4,3.2,49.8,3.2
+36,36,.White alone,.White alone,"3,987","3,447","2,158",54.1,2.4,62.6,2.3,"1,670",41.9,2.4,48.4,2.4
+37,37,..White non-Hispanic alone,..White non-Hispanic alone,"2,797","2,746","1,789",64.0,2.7,65.2,2.7,"1,404",50.2,2.9,51.1,2.9
+38,38,.Black alone,.Black alone,155,145,75,48.4,14.7,51.8,14.7,35,22.8,12.3,24.4,12.6
+39,39,.Asian alone,.Asian alone,86,47,28,32.9,19.4,(B),(B),12,13.7,14.2,(B),(B)
+40,40,.Hispanic (of any race),.Hispanic (of any race),"1,243",747,400,32.2,6.3,53.6,6.7,272,21.9,5.6,36.4,6.5
+41,41,.White alone or in combination,.White alone or in combination,"4,037","3,496","2,184",54.1,2.4,62.5,2.3,"1,685",41.7,2.3,48.2,2.4
+42,42,.Black alone or in combination ,.Black alone or in combination ,162,152,78,47.9,14.4,51.1,14.4,38,23.3,12.2,24.9,12.5
+43,43,.Asian alone or in combination,.Asian alone or in combination,89,50,31,35.3,19.4,(B),(B),15,16.7,15.1,(B),(B)
+44,44,ARKANSAS-Total,ARKANSAS-Total,"2,076","2,004","1,316",63.4,2.4,65.7,2.4,911,43.9,2.5,45.4,2.5
+45,45,.Male,.Male,997,960,624,62.6,3.5,65.0,3.4,431,43.2,3.5,44.9,3.6
+46,46,.Female,.Female,"1,079","1,045",692,64.1,3.3,66.2,3.3,480,44.5,3.4,46.0,3.4
+47,47,.White alone,.White alone,"1,714","1,656","1,115",65.0,2.6,67.3,2.6,792,46.2,2.7,47.8,2.7
+48,48,..White non-Hispanic alone,..White non-Hispanic alone,"1,608","1,605","1,100",68.4,2.6,68.5,2.6,782,48.7,2.8,48.8,2.8
+49,49,.Black alone,.Black alone,297,297,171,57.5,7.8,57.5,7.8,101,34.0,7.5,34.0,7.5
+50,50,.Asian alone,.Asian alone,26,13,3,(B),(B),(B),(B),-,(B),(B),(B),(B)
+51,51,.Hispanic (of any race),.Hispanic (of any race),106,51,15,14.1,12.0,(B),(B),10,9.2,9.9,(B),(B)
+52,52,.White alone or in combination,.White alone or in combination,"1,733","1,675","1,129",65.1,2.6,67.4,2.5,797,46.0,2.7,47.6,2.7
+53,53,.Black alone or in combination ,.Black alone or in combination ,302,302,174,57.8,7.8,57.8,7.8,105,34.7,7.5,34.7,7.5
+54,54,.Asian alone or in combination,.Asian alone or in combination,26,13,3,(B),(B),(B),(B),-,(B),(B),(B),(B)
+55,55,CALIFORNIA-Total,CALIFORNIA-Total,"26,318","21,250","13,239",50.3,1.1,62.3,1.0,"10,104",38.4,1.0,47.5,1.1
+56,56,.Male,.Male,"12,925","10,323","6,301",48.8,1.5,61.0,1.5,"4,806",37.2,1.5,46.6,1.5
+57,57,.Female,.Female,"13,393","10,927","6,938",51.8,1.5,63.5,1.4,"5,298",39.6,1.5,48.5,1.5
+58,58,.White alone,.White alone,"20,284","16,349","10,756",53.0,1.2,65.8,1.1,"8,336",41.1,1.2,51.0,1.2
+59,59,..White non-Hispanic alone,..White non-Hispanic alone,"12,540","11,977","8,461",67.5,1.4,70.6,1.4,"6,739",53.7,1.5,56.3,1.5
+60,60,.Black alone,.Black alone,"1,665","1,600",847,50.9,5.1,53.0,5.1,608,36.5,4.9,38.0,5.0
+61,61,.Asian alone,.Asian alone,"3,470","2,575","1,242",35.8,3.5,48.2,3.7,882,25.4,3.2,34.3,3.5
+62,62,.Hispanic (of any race),.Hispanic (of any race),"8,180","4,676","2,481",30.3,2.8,53.1,3.0,"1,717",21.0,2.4,36.7,2.9
+63,63,.White alone or in combination,.White alone or in combination,"20,706","16,710","10,982",53.0,1.2,65.7,1.1,"8,496",41.0,1.2,50.8,1.2
+64,64,.Black alone or in combination ,.Black alone or in combination ,"1,734","1,669",897,51.7,5.0,53.7,5.0,641,36.9,4.8,38.4,4.9
+65,65,.Asian alone or in combination,.Asian alone or in combination,"3,656","2,745","1,336",36.5,3.5,48.7,3.6,948,25.9,3.2,34.5,3.4
+66,66,COLORADO-Total,COLORADO-Total,"3,464","3,187","2,275",65.7,1.9,71.4,1.8,"1,730",49.9,2.0,54.3,2.0
+67,67,.Male,.Male,"1,712","1,566","1,096",64.0,2.7,70.0,2.6,805,47.0,2.8,51.4,2.8
+68,68,.Female,.Female,"1,752","1,621","1,179",67.3,2.6,72.8,2.5,925,52.8,2.8,57.0,2.7
+69,69,.White alone,.White alone,"3,160","2,956","2,150",68.0,1.9,72.8,1.8,"1,660",52.5,2.1,56.1,2.0
+70,70,..White non-Hispanic alone,..White non-Hispanic alone,"2,657","2,611","1,956",73.6,2.0,74.9,1.9,"1,522",57.3,2.2,58.3,2.2
+71,71,.Black alone,.Black alone,128,97,49,37.8,12.0,50.1,12.3,25,19.2,9.7,25.4,10.7
+72,72,.Asian alone,.Asian alone,92,58,26,28.8,13.8,(B),(B),20,21.3,12.5,(B),(B)
+73,73,.Hispanic (of any race),.Hispanic (of any race),563,396,228,40.5,7.5,57.5,7.6,158,28.2,6.9,40.0,7.5
+74,74,.White alone or in combination,.White alone or in combination,"3,191","2,985","2,171",68.0,1.9,72.7,1.8,"1,672",52.4,2.0,56.0,2.0
+75,75,.Black alone or in combination ,.Black alone or in combination ,133,100,52,38.9,11.8,51.7,12.1,26,19.6,9.6,26.1,10.6
+76,76,.Asian alone or in combination,.Asian alone or in combination,100,64,33,32.9,13.7,(B),(B),22,22.5,12.2,(B),(B)
+77,77,CONNECTICUT-Total,CONNECTICUT-Total,"2,640","2,454","1,650",62.5,2.0,67.2,1.9,"1,220",46.2,2.0,49.7,2.0
+78,78,.Male,.Male,"1,257","1,173",759,60.4,2.9,64.7,2.8,572,45.5,2.9,48.7,3.0
+79,79,.Female,.Female,"1,383","1,281",891,64.4,2.7,69.5,2.6,648,46.9,2.8,50.6,2.8
+80,80,.White alone,.White alone,"2,297","2,155","1,484",64.6,2.1,68.9,2.0,"1,117",48.6,2.2,51.9,2.2
+81,81,..White non-Hispanic alone,..White non-Hispanic alone,"2,084","2,003","1,408",67.6,2.1,70.3,2.1,"1,073",51.5,2.3,53.6,2.3
+82,82,.Black alone,.Black alone,243,227,128,52.8,8.1,56.4,8.1,81,33.3,7.7,35.5,7.8
+83,83,.Asian alone,.Asian alone,67,43,25,(B),(B),(B),(B),15,(B),(B),(B),(B)
+84,84,.Hispanic (of any race),.Hispanic (of any race),258,192,90,34.9,9.8,46.9,10.2,49,19.2,8.1,25.8,9.0
+85,85,.White alone or in combination,.White alone or in combination,"2,312","2,170","1,488",64.4,2.1,68.6,2.0,"1,120",48.4,2.2,51.6,2.2
+86,86,.Black alone or in combination ,.Black alone or in combination ,250,234,131,52.5,8.0,56.1,7.9,83,33.0,7.5,35.3,7.7
+87,87,.Asian alone or in combination,.Asian alone or in combination,69,45,26,(B),(B),(B),(B),15,(B),(B),(B),(B)
+88,88,DELAWARE-Total,DELAWARE-Total,647,603,408,63.0,2.3,67.6,2.2,275,42.6,2.3,45.6,2.3
+89,89,.Male,.Male,308,284,190,61.6,3.3,66.6,3.2,124,40.2,3.3,43.5,3.4
+90,90,.Female,.Female,339,319,218,64.4,3.1,68.5,3.0,152,44.7,3.2,47.5,3.2
+91,91,.White alone,.White alone,496,469,322,64.9,2.6,68.5,2.5,220,44.4,2.7,46.8,2.7
+92,92,..White non-Hispanic alone,..White non-Hispanic alone,460,452,316,68.8,2.6,69.9,2.6,217,47.1,2.8,47.9,2.8
+93,93,.Black alone,.Black alone,125,115,74,59.6,6.4,64.3,6.2,47,38.0,6.3,41.0,6.4
+94,94,.Asian alone,.Asian alone,22,14,8,(B),(B),(B),(B),5,(B),(B),(B),(B)
+95,95,.Hispanic (of any race),.Hispanic (of any race),43,22,8,(B),(B),(B),(B),4,(B),(B),(B),(B)
+96,96,.White alone or in combination,.White alone or in combination,498,472,324,65.0,2.6,68.5,2.5,221,44.4,2.7,46.9,2.7
+97,97,.Black alone or in combination ,.Black alone or in combination ,127,118,76,59.4,6.3,64.2,6.2,49,38.3,6.2,41.3,6.3
+98,98,.Asian alone or in combination,.Asian alone or in combination,23,14,9,(B),(B),(B),(B),6,(B),(B),(B),(B)
+99,99,DISTRICT_OF_COLUMBIA-Total,DISTRICT_OF_COLUMBIA-Total,419,374,275,65.8,2.4,73.6,2.3,187,44.6,2.6,49.9,2.6
+100,100,.Male,.Male,193,170,118,61.1,3.7,69.2,3.5,79,40.9,3.7,46.4,3.8
+101,101,.Female,.Female,226,204,157,69.7,3.2,77.2,2.9,108,47.7,3.5,52.8,3.5
+102,102,.White alone,.White alone,175,148,116,66.1,3.8,78.2,3.3,81,46.0,4.0,54.5,4.0
+103,103,..White non-Hispanic alone,..White non-Hispanic alone,149,141,110,74.2,3.8,77.9,3.6,77,51.9,4.3,54.5,4.3
+104,104,.Black alone,.Black alone,217,206,148,68.3,4.0,71.8,3.9,98,45.3,4.3,47.6,4.3
+105,105,.Asian alone,.Asian alone,15,13,7,(B),(B),(B),(B),5,(B),(B),(B),(B)
+106,106,.Hispanic (of any race),.Hispanic (of any race),36,10,7,(B),(B),(B),(B),4,(B),(B),(B),(B)
+107,107,.White alone or in combination,.White alone or in combination,179,150,117,65.3,3.8,78.0,3.3,82,45.6,3.9,54.5,3.9
+108,108,.Black alone or in combination ,.Black alone or in combination ,223,210,151,67.7,4.0,71.8,3.9,100,44.6,4.3,47.3,4.3
+109,109,.Asian alone or in combination,.Asian alone or in combination,15,13,7,(B),(B),(B),(B),5,(B),(B),(B),(B)
+110,110,FLORIDA-Total,FLORIDA-Total,"13,929","12,098","7,855",56.4,1.3,64.9,1.2,"5,343",38.4,1.2,44.2,1.3
+111,111,.Male,.Male,"6,717","5,748","3,621",53.9,1.8,63.0,1.8,"2,538",37.8,1.8,44.2,1.8
+112,112,.Female,.Female,"7,212","6,349","4,235",58.7,1.7,66.7,1.7,"2,805",38.9,1.7,44.2,1.8
+113,113,.White alone,.White alone,"11,556","10,090","6,709",58.1,1.4,66.5,1.3,"4,592",39.7,1.4,45.5,1.4
+114,114,..White non-Hispanic alone,..White non-Hispanic alone,"8,783","8,526","5,822",66.3,1.5,68.3,1.5,"4,101",46.7,1.6,48.1,1.6
+115,115,.Black alone,.Black alone,"1,915","1,660",963,50.3,4.2,58.0,4.1,642,33.5,3.9,38.7,4.1
+116,116,.Asian alone,.Asian alone,293,192,80,27.3,9.9,41.8,11.0,44,15.1,8.0,23.1,9.4
+117,117,.Hispanic (of any race),.Hispanic (of any race),"2,862","1,635",921,32.2,4.1,56.3,4.4,514,18.0,3.4,31.4,4.1
+118,118,.White alone or in combination,.White alone or in combination,"11,664","10,198","6,780",58.1,1.4,66.5,1.3,"4,633",39.7,1.4,45.4,1.4
+119,119,.Black alone or in combination ,.Black alone or in combination ,"1,950","1,696",985,50.5,4.1,58.1,4.1,657,33.7,3.9,38.7,4.0
+120,120,.Asian alone or in combination,.Asian alone or in combination,312,210,87,27.8,9.7,41.2,10.6,44,14.2,7.5,21.1,8.8
+121,121,GEORGIA-Total,GEORGIA-Total,"6,630","6,086","3,950",59.6,2.2,64.9,2.2,"2,672",40.3,2.2,43.9,2.2
+122,122,.Male,.Male,"3,188","2,876","1,795",56.3,3.2,62.4,3.2,"1,197",37.6,3.2,41.6,3.2
+123,123,.Female,.Female,"3,442","3,210","2,154",62.6,3.0,67.1,2.9,"1,474",42.8,3.1,45.9,3.1
+124,124,.White alone,.White alone,"4,512","4,146","2,801",62.1,2.7,67.6,2.6,"1,905",42.2,2.7,45.9,2.7
+125,125,..White non-Hispanic alone,..White non-Hispanic alone,"4,048","3,992","2,747",67.9,2.7,68.8,2.7,"1,871",46.2,2.9,46.9,2.9
+126,126,.Black alone,.Black alone,"1,868","1,775","1,081",57.9,5.1,60.9,5.0,722,38.6,5.0,40.7,5.1
+127,127,.Asian alone,.Asian alone,173,102,31,18.0,13.6,30.4,16.3,26,15.2,12.7,25.7,15.5
+128,128,.Hispanic (of any race),.Hispanic (of any race),528,176,57,10.9,7.8,32.6,11.8,37,7.0,6.4,21.0,10.2
+129,129,.White alone or in combination,.White alone or in combination,"4,560","4,191","2,826",62.0,2.6,67.4,2.6,"1,917",42.0,2.7,45.8,2.7
+130,130,.Black alone or in combination ,.Black alone or in combination ,"1,886","1,790","1,093",58.0,5.1,61.1,5.0,728,38.6,5.0,40.7,5.0
+131,131,.Asian alone or in combination,.Asian alone or in combination,185,112,34,18.3,13.2,30.1,15.7,29,15.6,12.4,25.8,15.0
+132,132,HAWAII-Total,HAWAII-Total,967,893,492,50.9,2.3,55.2,2.3,388,40.1,2.3,43.4,2.3
+133,133,.Male,.Male,460,424,231,50.2,3.4,54.5,3.3,178,38.7,3.3,42.0,3.3
+134,134,.Female,.Female,507,468,261,51.5,3.2,55.8,3.2,209,41.3,3.1,44.7,3.2
+135,135,.White alone,.White alone,232,226,134,57.4,4.7,59.1,4.6,97,41.9,4.7,43.1,4.7
+136,136,..White non-Hispanic alone,..White non-Hispanic alone,206,201,122,59.0,4.9,60.5,4.9,88,42.6,5.0,43.7,5.0
+137,137,.Black alone,.Black alone,15,13,7,(B),(B),(B),(B),3,(B),(B),(B),(B)
+138,138,.Asian alone,.Asian alone,468,406,236,50.4,4.2,58.0,4.2,202,43.1,4.2,49.6,4.2
+139,139,.Hispanic (of any race),.Hispanic (of any race),52,48,25,(B),(B),(B),(B),22,(B),(B),(B),(B)
+140,140,.White alone or in combination,.White alone or in combination,350,343,194,55.4,3.8,56.6,3.8,143,40.9,3.8,41.8,3.8
+141,141,.Black alone or in combination ,.Black alone or in combination ,21,19,10,(B),(B),(B),(B),6,(B),(B),(B),(B)
+142,142,.Asian alone or in combination,.Asian alone or in combination,588,526,297,50.5,3.8,56.4,3.7,247,42.0,3.7,47.0,3.7
+143,143,IDAHO-Total,IDAHO-Total,"1,064","1,007",660,62.0,2.3,65.6,2.3,523,49.1,2.4,51.9,2.4
+144,144,.Male,.Male,523,491,318,60.8,3.3,64.7,3.2,249,47.7,3.4,50.7,3.4
+145,145,.Female,.Female,541,515,342,63.2,3.2,66.4,3.1,274,50.5,3.3,53.1,3.3
+146,146,.White alone,.White alone,"1,013",965,643,63.4,2.3,66.6,2.3,515,50.8,2.4,53.4,2.4
+147,147,..White non-Hispanic alone,..White non-Hispanic alone,928,917,630,67.9,2.4,68.6,2.4,507,54.7,2.5,55.3,2.5
+148,148,.Black alone,.Black alone,7,7,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+149,149,.Asian alone,.Asian alone,17,9,5,(B),(B),(B),(B),3,(B),(B),(B),(B)
+150,150,.Hispanic (of any race),.Hispanic (of any race),91,52,16,17.0,9.6,(B),11.7,9,9.7,7.5,(B),9.6
+151,151,.White alone or in combination,.White alone or in combination,"1,029",979,652,63.4,2.3,66.6,2.3,519,50.4,2.4,53.0,2.4
+152,152,.Black alone or in combination ,.Black alone or in combination ,10,10,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+153,153,.Asian alone or in combination,.Asian alone or in combination,20,12,6,(B),(B),(B),(B),3,(B),(B),(B),(B)
+154,154,ILLINOIS-Total,ILLINOIS-Total,"9,392","8,383","5,779",61.5,1.5,68.9,1.4,"3,968",42.2,1.5,47.3,1.5
+155,155,.Male,.Male,"4,570","4,006","2,635",57.7,2.1,65.8,2.1,"1,805",39.5,2.1,45.1,2.2
+156,156,.Female,.Female,"4,822","4,377","3,144",65.2,2.0,71.8,1.9,"2,162",44.8,2.1,49.4,2.1
+157,157,.White alone,.White alone,"7,585","6,809","4,800",63.3,1.6,70.5,1.5,"3,262",43.0,1.7,47.9,1.7
+158,158,..White non-Hispanic alone,..White non-Hispanic alone,"6,567","6,261","4,508",68.6,1.7,72.0,1.6,"3,093",47.1,1.8,49.4,1.8
+159,159,.Black alone,.Black alone,"1,274","1,252",822,64.5,4.8,65.7,4.7,602,47.2,5.0,48.0,5.0
+160,160,.Asian alone,.Asian alone,458,269,121,26.4,7.6,44.9,8.6,79,17.3,6.6,29.5,7.9
+161,161,.Hispanic (of any race),.Hispanic (of any race),"1,086",594,316,29.1,6.4,53.2,7.0,185,17.0,5.3,31.2,6.5
+162,162,.White alone or in combination,.White alone or in combination,"7,629","6,845","4,821",63.2,1.6,70.4,1.5,"3,276",42.9,1.7,47.9,1.7
+163,163,.Black alone or in combination ,.Black alone or in combination ,"1,292","1,263",826,63.9,4.7,65.4,4.7,602,46.6,4.9,47.6,4.9
+164,164,.Asian alone or in combination,.Asian alone or in combination,478,282,126,26.5,7.5,44.8,8.4,83,17.4,6.4,29.5,7.7
+165,165,INDIANA-Total,INDIANA-Total,"4,629","4,506","2,946",63.6,1.9,65.4,1.9,"2,053",44.3,2.0,45.5,2.0
+166,166,.Male,.Male,"2,262","2,196","1,442",63.7,2.7,65.7,2.7,"1,024",45.3,2.8,46.7,2.8
+167,167,.Female,.Female,"2,367","2,310","1,504",63.5,2.7,65.1,2.7,"1,028",43.4,2.8,44.5,2.8
+168,168,.White alone,.White alone,"4,195","4,108","2,716",64.7,2.0,66.1,2.0,"1,901",45.3,2.1,46.3,2.1
+169,169,..White non-Hispanic alone,..White non-Hispanic alone,"3,990","3,985","2,657",66.6,2.0,66.7,2.0,"1,877",47.1,2.1,47.1,2.1
+170,170,.Black alone,.Black alone,378,365,209,55.4,8.4,57.4,8.3,140,36.9,8.1,38.3,8.2
+171,171,.Asian alone,.Asian alone,31,14,12,(B),(B),(B),(B),9,(B),(B),(B),(B)
+172,172,.Hispanic (of any race),.Hispanic (of any race),211,124,59,27.8,13.1,47.5,14.6,24,11.5,9.3,19.6,11.6
+173,173,.White alone or in combination,.White alone or in combination,"4,210","4,124","2,721",64.6,2.0,66.0,2.0,"1,904",45.2,2.1,46.2,2.1
+174,174,.Black alone or in combination ,.Black alone or in combination ,381,367,212,55.7,8.3,57.7,8.3,142,37.3,8.1,38.7,8.2
+175,175,.Asian alone or in combination,.Asian alone or in combination,34,18,15,(B),(B),(B),(B),9,(B),(B),(B),(B)
+176,176,IOWA-Total,IOWA-Total,"2,252","2,162","1,663",73.9,1.9,76.9,1.8,"1,180",52.4,2.1,54.6,2.1
+177,177,.Male,.Male,"1,104","1,056",790,71.5,2.7,74.8,2.6,545,49.4,3.0,51.6,3.0
+178,178,.Female,.Female,"1,148","1,106",873,76.1,2.5,78.9,2.4,635,55.3,3.0,57.4,2.9
+179,179,.White alone,.White alone,"2,118","2,073","1,620",76.5,1.9,78.2,1.8,"1,149",54.2,2.2,55.4,2.2
+180,180,..White non-Hispanic alone,..White non-Hispanic alone,"2,053","2,042","1,605",78.2,1.8,78.6,1.8,"1,147",55.9,2.2,56.1,2.2
+181,181,.Black alone,.Black alone,49,44,20,(B),(B),(B),(B),14,(B),(B),(B),(B)
+182,182,.Asian alone,.Asian alone,64,28,13,(B),(B),(B),(B),11,(B),(B),(B),(B)
+183,183,.Hispanic (of any race),.Hispanic (of any race),70,35,16,(B),(B),(B),(B),4,(B),(B),(B),(B)
+184,184,.White alone or in combination,.White alone or in combination,"2,127","2,082","1,625",76.4,1.9,78.1,1.8,"1,151",54.1,2.2,55.3,2.2
+185,185,.Black alone or in combination ,.Black alone or in combination ,50,45,20,(B),(B),(B),(B),14,(B),(B),(B),(B)
+186,186,.Asian alone or in combination,.Asian alone or in combination,65,28,13,(B),(B),(B),(B),11,(B),(B),(B),(B)
+187,187,KANSAS-Total,KANSAS-Total,"2,035","1,938","1,274",62.6,2.1,65.7,2.1,901,44.3,2.2,46.5,2.2
+188,188,.Male,.Male,995,941,604,60.7,3.0,64.2,3.0,418,42.0,3.1,44.4,3.1
+189,189,.Female,.Female,"1,040",997,670,64.4,2.9,67.2,2.8,483,46.4,3.0,48.5,3.0
+190,190,.White alone,.White alone,"1,833","1,773","1,194",65.1,2.2,67.3,2.1,855,46.6,2.3,48.2,2.3
+191,191,..White non-Hispanic alone,..White non-Hispanic alone,"1,721","1,704","1,165",67.7,2.2,68.3,2.2,836,48.6,2.4,49.0,2.4
+192,192,.Black alone,.Black alone,99,98,55,55.8,11.8,56.6,11.8,36,36.7,11.5,37.2,11.5
+193,193,.Asian alone,.Asian alone,50,18,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+194,194,.Hispanic (of any race),.Hispanic (of any race),119,76,32,26.7,12.5,41.8,13.9,19,16.3,10.4,25.4,12.3
+195,195,.White alone or in combination,.White alone or in combination,"1,853","1,793","1,200",64.8,2.2,66.9,2.1,858,46.3,2.3,47.9,2.3
+196,196,.Black alone or in combination ,.Black alone or in combination ,108,107,60,55.7,11.3,56.4,11.3,36,33.8,10.8,34.2,10.8
+197,197,.Asian alone or in combination,.Asian alone or in combination,59,26,4,(B),(B),(B),(B),1,(B),(B),(B),(B)
+198,198,KENTUCKY-Total,KENTUCKY-Total,"3,142","3,052","2,240",71.3,2.1,73.4,2.0,"1,508",48.0,2.3,49.4,2.3
+199,199,.Male,.Male,"1,520","1,467","1,050",69.1,3.0,71.6,3.0,743,48.9,3.3,50.6,3.3
+200,200,.Female,.Female,"1,623","1,585","1,190",73.3,2.8,75.1,2.8,765,47.2,3.2,48.3,3.2
+201,201,.White alone,.White alone,"2,878","2,826","2,087",72.5,2.1,73.8,2.1,"1,413",49.1,2.4,50.0,2.4
+202,202,..White non-Hispanic alone,..White non-Hispanic alone,"2,835","2,805","2,074",73.2,2.1,73.9,2.1,"1,402",49.5,2.4,50.0,2.4
+203,203,.Black alone,.Black alone,196,188,127,64.9,10.6,67.9,10.4,86,44.0,11.0,46.0,11.1
+204,204,.Asian alone,.Asian alone,39,10,5,(B),(B),(B),(B),-,(B),(B),(B),(B)
+205,205,.Hispanic (of any race),.Hispanic (of any race),45,23,14,(B),(B),(B),(B),11,(B),(B),(B),(B)
+206,206,.White alone or in combination,.White alone or in combination,"2,903","2,851","2,104",72.5,2.1,73.8,2.1,"1,420",48.9,2.4,49.8,2.4
+207,207,.Black alone or in combination ,.Black alone or in combination ,198,189,129,65.3,10.5,68.3,10.3,86,43.6,11.0,45.6,11.0
+208,208,.Asian alone or in combination,.Asian alone or in combination,45,16,9,(B),(B),(B),(B),2,(B),(B),(B),(B)
+209,209,LOUISIANA-Total,LOUISIANA-Total,"3,071","3,006","2,179",71.0,2.4,72.5,2.3,"1,201",39.1,2.5,40.0,2.6
+210,210,.Male,.Male,"1,437","1,396",982,68.3,3.6,70.3,3.5,551,38.4,3.7,39.5,3.7
+211,211,.Female,.Female,"1,634","1,610","1,198",73.3,3.2,74.4,3.1,650,39.8,3.5,40.4,3.5
+212,212,.White alone,.White alone,"2,115","2,067","1,549",73.2,2.8,74.9,2.7,865,40.9,3.1,41.8,3.1
+213,213,..White non-Hispanic alone,..White non-Hispanic alone,"2,042","2,027","1,531",75.0,2.8,75.5,2.8,849,41.6,3.2,41.9,3.2
+214,214,.Black alone,.Black alone,884,880,592,66.9,5.5,67.3,5.5,319,36.1,5.7,36.3,5.7
+215,215,.Asian alone,.Asian alone,43,31,21,(B),(B),(B),(B),15,(B),(B),(B),(B)
+216,216,.Hispanic (of any race),.Hispanic (of any race),92,59,33,36.4,22.9,(B),(B),31,34.0,22.5,(B),(B)
+217,217,.White alone or in combination,.White alone or in combination,"2,130","2,082","1,559",73.2,2.8,74.9,2.7,867,40.7,3.1,41.6,3.1
+218,218,.Black alone or in combination ,.Black alone or in combination ,884,880,592,66.9,5.5,67.3,5.5,319,36.1,5.7,36.3,5.7
+219,219,.Asian alone or in combination,.Asian alone or in combination,43,31,21,(B),(B),(B),(B),15,(B),(B),(B),(B)
+220,220,MAINE-Total,MAINE-Total,"1,034","1,023",811,78.5,1.7,79.3,1.6,595,57.5,2.0,58.1,2.0
+221,221,.Male,.Male,498,496,393,78.9,2.4,79.3,2.3,286,57.4,2.9,57.7,2.9
+222,222,.Female,.Female,535,527,418,78.1,2.3,79.3,2.3,309,57.7,2.8,58.5,2.8
+223,223,.White alone,.White alone,"1,010","1,002",794,78.7,1.7,79.3,1.6,585,57.9,2.0,58.4,2.0
+224,224,..White non-Hispanic alone,..White non-Hispanic alone,"1,007","1,000",794,78.8,1.7,79.3,1.6,584,58.0,2.0,58.4,2.0
+225,225,.Black alone,.Black alone,5,3,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+226,226,.Asian alone,.Asian alone,-,-,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+227,227,.Hispanic (of any race),.Hispanic (of any race),3,2,1,(B),(B),(B),(B),-,(B),(B),(B),(B)
+228,228,.White alone or in combination,.White alone or in combination,"1,026","1,018",807,78.7,1.7,79.3,1.6,592,57.7,2.0,58.2,2.0
+229,229,.Black alone or in combination ,.Black alone or in combination ,7,6,4,(B),(B),(B),(B),3,(B),(B),(B),(B)
+230,230,.Asian alone or in combination,.Asian alone or in combination,2,1,1,(B),(B),(B),(B),1,(B),(B),(B),(B)
+231,231,MARYLAND-Total,MARYLAND-Total,"4,175","3,806","2,720",65.1,2.0,71.5,1.9,"2,145",51.4,2.1,56.4,2.1
+232,232,.Male,.Male,"1,965","1,775","1,232",62.7,3.0,69.4,2.8,982,50.0,3.1,55.3,3.1
+233,233,.Female,.Female,"2,210","2,031","1,488",67.3,2.7,73.3,2.6,"1,163",52.6,2.9,57.3,2.9
+234,234,.White alone,.White alone,"2,795","2,572","1,905",68.1,2.4,74.0,2.3,"1,513",54.1,2.6,58.8,2.5
+235,235,..White non-Hispanic alone,..White non-Hispanic alone,"2,514","2,453","1,837",73.1,2.4,74.9,2.4,"1,457",58.0,2.7,59.4,2.7
+236,236,.Black alone,.Black alone,"1,162","1,106",748,64.4,4.6,67.6,4.5,584,50.3,4.8,52.8,4.8
+237,237,.Asian alone,.Asian alone,175,84,37,20.9,10.6,43.7,12.9,25,14.4,9.1,29.9,11.9
+238,238,.Hispanic (of any race),.Hispanic (of any race),317,145,83,26.3,10.6,57.2,11.9,71,22.5,10.0,49.1,12.0
+239,239,.White alone or in combination,.White alone or in combination,"2,823","2,600","1,924",68.2,2.4,74.0,2.2,"1,528",54.1,2.6,58.8,2.5
+240,240,.Black alone or in combination ,.Black alone or in combination ,"1,183","1,127",766,64.8,4.6,68.0,4.5,598,50.6,4.8,53.1,4.8
+241,241,.Asian alone or in combination,.Asian alone or in combination,180,89,40,22.5,10.7,45.4,12.8,27,15.2,9.2,30.8,11.8
+242,242,MASSACHUSETTS-Total,MASSACHUSETTS-Total,"4,864","4,395","3,180",65.4,1.9,72.4,1.7,"2,434",50.0,2.0,55.4,1.9
+243,243,.Male,.Male,"2,313","2,080","1,471",63.6,2.7,70.7,2.6,"1,111",48.0,2.8,53.4,2.8
+244,244,.Female,.Female,"2,551","2,315","1,710",67.0,2.5,73.9,2.4,"1,324",51.9,2.7,57.2,2.7
+245,245,.White alone,.White alone,"4,274","4,007","2,945",68.9,1.9,73.5,1.8,"2,274",53.2,2.1,56.8,2.1
+246,246,..White non-Hispanic alone,..White non-Hispanic alone,"4,046","3,860","2,878",71.1,1.9,74.6,1.9,"2,226",55.0,2.1,57.7,2.1
+247,247,.Black alone,.Black alone,292,216,122,41.7,9.5,56.5,9.6,97,33.2,9.1,45.0,9.6
+248,248,.Asian alone,.Asian alone,264,138,84,31.9,9.9,60.9,10.3,43,16.2,7.8,30.9,9.8
+249,249,.Hispanic (of any race),.Hispanic (of any race),265,179,84,31.9,12.3,47.1,13.1,61,23.2,11.1,34.2,12.5
+250,250,.White alone or in combination,.White alone or in combination,"4,290","4,023","2,959",69.0,1.9,73.5,1.8,"2,282",53.2,2.1,56.7,2.1
+251,251,.Black alone or in combination ,.Black alone or in combination ,302,225,132,43.6,9.4,58.4,9.4,107,35.3,9.1,47.3,9.5
+252,252,.Asian alone or in combination,.Asian alone or in combination,270,144,90,33.5,9.9,62.6,10.1,49,18.2,8.1,33.9,9.9
+253,253,MICHIGAN-Total,MICHIGAN-Total,"7,458","7,163","5,256",70.5,1.5,73.4,1.5,"4,088",54.8,1.7,57.1,1.7
+254,254,.Male,.Male,"3,580","3,431","2,483",69.4,2.2,72.4,2.2,"1,946",54.3,2.4,56.7,2.4
+255,255,.Female,.Female,"3,878","3,732","2,773",71.5,2.1,74.3,2.0,"2,142",55.2,2.3,57.4,2.3
+256,256,.White alone,.White alone,"6,129","5,940","4,404",71.9,1.7,74.1,1.6,"3,412",55.7,1.8,57.5,1.8
+257,257,..White non-Hispanic alone,..White non-Hispanic alone,"5,891","5,762","4,278",72.6,1.7,74.2,1.6,"3,321",56.4,1.9,57.6,1.9
+258,258,.Black alone,.Black alone,970,950,674,69.4,5.2,70.9,5.1,546,56.3,5.6,57.4,5.6
+259,259,.Asian alone,.Asian alone,202,137,77,38.3,12.5,56.6,12.7,54,26.5,11.4,39.2,12.6
+260,260,.Hispanic (of any race),.Hispanic (of any race),287,208,137,47.8,13.4,65.8,12.7,99,34.5,12.8,47.4,13.4
+261,261,.White alone or in combination,.White alone or in combination,"6,227","6,027","4,468",71.8,1.7,74.1,1.6,"3,454",55.5,1.8,57.3,1.8
+262,262,.Black alone or in combination ,.Black alone or in combination ,998,975,692,69.3,5.1,71.0,5.0,558,55.9,5.5,57.2,5.5
+263,263,.Asian alone or in combination,.Asian alone or in combination,215,149,88,41.1,12.3,59.1,12.3,64,30.0,11.4,43.1,12.4
+264,264,MINNESOTA-Total,MINNESOTA-Total,"3,855","3,632","2,862",74.2,1.8,78.8,1.7,"2,375",61.6,2.0,65.4,1.9
+265,265,.Male,.Male,"1,908","1,767","1,385",72.6,2.6,78.4,2.4,"1,173",61.5,2.8,66.4,2.7
+266,266,.Female,.Female,"1,947","1,865","1,477",75.9,2.5,79.2,2.3,"1,201",61.7,2.8,64.4,2.8
+267,267,.White alone,.White alone,"3,526","3,411","2,731",77.4,1.8,80.1,1.7,"2,288",64.9,2.0,67.1,2.0
+268,268,..White non-Hispanic alone,..White non-Hispanic alone,"3,377","3,365","2,711",80.3,1.7,80.6,1.7,"2,268",67.2,2.1,67.4,2.0
+269,269,.Black alone,.Black alone,135,104,72,53.1,13.2,69.4,12.2,53,39.4,12.9,51.4,13.2
+270,270,.Asian alone,.Asian alone,147,72,33,22.5,11.1,(B),(B),16,11.0,8.3,(B),(B)
+271,271,.Hispanic (of any race),.Hispanic (of any race),153,48,22,14.1,11.2,(B),(B),20,13.1,10.9,(B),(B)
+272,272,.White alone or in combination,.White alone or in combination,"3,559","3,444","2,751",77.3,1.8,79.9,1.7,"2,302",64.7,2.0,66.8,2.0
+273,273,.Black alone or in combination ,.Black alone or in combination ,147,116,78,52.6,12.6,67.0,11.9,56,38.0,12.3,48.4,12.7
+274,274,.Asian alone or in combination,.Asian alone or in combination,152,76,38,24.8,11.3,49.2,13.0,21,13.6,8.9,27.0,11.6
+275,275,MISSISSIPPI-Total,MISSISSIPPI-Total,"2,083","2,054","1,437",69.0,2.4,70.0,2.4,879,42.2,2.6,42.8,2.6
+276,276,.Male,.Male,971,953,620,63.8,3.7,65.0,3.7,379,39.0,3.8,39.8,3.8
+277,277,.Female,.Female,"1,112","1,101",817,73.5,3.2,74.2,3.2,500,44.9,3.6,45.4,3.6
+278,278,.White alone,.White alone,"1,314","1,295",909,69.2,3.1,70.2,3.0,510,38.8,3.2,39.4,3.3
+279,279,..White non-Hispanic alone,..White non-Hispanic alone,"1,285","1,280",909,70.7,3.1,71.0,3.1,510,39.7,3.3,39.9,3.3
+280,280,.Black alone,.Black alone,718,718,518,72.2,4.9,72.2,4.9,362,50.5,5.4,50.5,5.4
+281,281,.Asian alone,.Asian alone,9,9,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+282,282,.Hispanic (of any race),.Hispanic (of any race),39,15,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+283,283,.White alone or in combination,.White alone or in combination,"1,318","1,299",910,69.1,3.1,70.1,3.0,510,38.7,3.2,39.3,3.2
+284,284,.Black alone or in combination ,.Black alone or in combination ,718,718,518,72.2,4.9,72.2,4.9,362,50.5,5.4,50.5,5.4
+285,285,.Asian alone or in combination,.Asian alone or in combination,11,11,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+286,286,MISSOURI-Total,MISSOURI-Total,"4,388","4,276","3,170",72.2,1.9,74.1,1.9,"2,310",52.6,2.1,54.0,2.1
+287,287,.Male,.Male,"2,127","2,060","1,471",69.2,2.8,71.4,2.8,"1,095",51.5,3.1,53.1,3.1
+288,288,.Female,.Female,"2,262","2,216","1,699",75.1,2.6,76.6,2.5,"1,216",53.7,3.0,54.8,3.0
+289,289,.White alone,.White alone,"3,765","3,690","2,772",73.6,2.0,75.1,2.0,"2,053",54.5,2.3,55.6,2.3
+290,290,..White non-Hispanic alone,..White non-Hispanic alone,"3,638","3,608","2,720",74.8,2.0,75.4,2.0,"2,013",55.3,2.3,55.8,2.3
+291,291,.Black alone,.Black alone,454,454,315,69.4,7.4,69.4,7.4,209,45.9,8.0,45.9,8.0
+292,292,.Asian alone,.Asian alone,73,41,11,(B),(B),(B),(B),8,(B),(B),(B),(B)
+293,293,.Hispanic (of any race),.Hispanic (of any race),135,90,58,42.9,18.9,64.6,18.3,46,33.8,18.1,50.9,19.1
+294,294,.White alone or in combination,.White alone or in combination,"3,845","3,765","2,833",73.7,2.0,75.3,2.0,"2,085",54.2,2.3,55.4,2.3
+295,295,.Black alone or in combination ,.Black alone or in combination ,461,461,321,69.5,7.3,69.5,7.3,214,46.4,7.9,46.4,7.9
+296,296,.Asian alone or in combination,.Asian alone or in combination,73,41,11,(B),(B),(B),(B),8,(B),(B),(B),(B)
+297,297,MONTANA-Total,MONTANA-Total,735,729,512,69.7,2.3,70.2,2.3,435,59.2,2.5,59.6,2.5
+298,298,.Male,.Male,365,361,254,69.6,3.3,70.3,3.2,221,60.5,3.5,61.1,3.5
+299,299,.Female,.Female,370,368,258,69.8,3.2,70.1,3.2,214,57.9,3.5,58.2,3.5
+300,300,.White alone,.White alone,684,680,482,70.4,2.4,70.9,2.4,413,60.4,2.5,60.8,2.5
+301,301,..White non-Hispanic alone,..White non-Hispanic alone,673,670,479,71.2,2.4,71.6,2.4,411,61.1,2.5,61.5,2.5
+302,302,.Black alone,.Black alone,-,-,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+303,303,.Asian alone,.Asian alone,5,4,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+304,304,.Hispanic (of any race),.Hispanic (of any race),12,11,3,(B),(B),(B),(B),2,(B),(B),(B),(B)
+305,305,.White alone or in combination,.White alone or in combination,701,697,493,70.3,2.3,70.7,2.3,421,60.1,2.5,60.4,2.5
+306,306,.Black alone or in combination ,.Black alone or in combination ,2,2,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+307,307,.Asian alone or in combination,.Asian alone or in combination,6,5,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+308,308,NEBRASKA-Total,NEBRASKA-Total,"1,298","1,239",852,65.7,2.2,68.8,2.1,634,48.9,2.3,51.2,2.3
+309,309,.Male,.Male,638,604,398,62.4,3.2,65.9,3.1,295,46.3,3.3,48.8,3.3
+310,310,.Female,.Female,660,635,454,68.8,3.0,71.6,2.9,339,51.4,3.2,53.4,3.2
+311,311,.White alone,.White alone,"1,183","1,148",817,69.1,2.2,71.2,2.2,614,51.9,2.4,53.5,2.4
+312,312,..White non-Hispanic alone,..White non-Hispanic alone,"1,113","1,106",798,71.7,2.2,72.1,2.2,601,54.0,2.5,54.3,2.5
+313,313,.Black alone,.Black alone,57,53,21,(B),(B),(B),(B),12,(B),(B),(B),(B)
+314,314,.Asian alone,.Asian alone,29,18,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+315,315,.Hispanic (of any race),.Hispanic (of any race),76,42,19,25.3,12.9,(B),(B),13,17.0,11.2,(B),(B)
+316,316,.White alone or in combination,.White alone or in combination,"1,196","1,161",824,68.9,2.2,71.0,2.2,619,51.8,2.4,53.4,2.4
+317,317,.Black alone or in combination ,.Black alone or in combination ,60,56,21,(B),(B),(B),(B),12,(B),(B),(B),(B)
+318,318,.Asian alone or in combination,.Asian alone or in combination,32,21,3,(B),(B),(B),(B),1,(B),(B),(B),(B)
+319,319,NEVADA-Total,NEVADA-Total,"1,839","1,610",905,49.2,1.9,56.2,1.9,686,37.3,1.9,42.6,1.9
+320,320,.Male,.Male,926,799,434,46.9,2.7,54.4,2.7,332,35.8,2.6,41.5,2.7
+321,321,.Female,.Female,913,812,471,51.5,2.8,58.0,2.7,355,38.8,2.7,43.7,2.7
+322,322,.White alone,.White alone,"1,490","1,315",762,51.1,2.2,58.0,2.1,595,39.9,2.1,45.3,2.2
+323,323,..White non-Hispanic alone,..White non-Hispanic alone,"1,160","1,139",681,58.7,2.4,59.8,2.4,550,47.5,2.4,48.3,2.5
+324,324,.Black alone,.Black alone,137,135,63,46.0,8.6,46.8,8.6,41,30.0,7.9,30.5,8.0
+325,325,.Asian alone,.Asian alone,124,93,51,40.9,9.3,54.6,9.5,37,30.1,8.7,40.2,9.3
+326,326,.Hispanic (of any race),.Hispanic (of any race),375,199,92,24.6,5.8,46.2,6.8,50,13.4,4.6,25.2,5.9
+327,327,.White alone or in combination,.White alone or in combination,"1,527","1,351",778,50.9,2.1,57.6,2.1,601,39.4,2.1,44.5,2.1
+328,328,.Black alone or in combination ,.Black alone or in combination ,145,143,68,47.0,8.4,47.8,8.4,44,30.3,7.7,30.8,7.7
+329,329,.Asian alone or in combination,.Asian alone or in combination,133,102,56,42.5,9.1,55.4,9.1,38,28.9,8.3,37.7,8.9
+330,330,NEW_HAMPSHIRE-Total,NEW_HAMPSHIRE-Total,"1,015",985,687,67.7,1.9,69.7,1.9,477,47.0,2.1,48.4,2.1
+331,331,.Male,.Male,492,477,326,66.3,2.8,68.4,2.8,229,46.6,3.0,48.1,3.0
+332,332,.Female,.Female,523,508,361,69.0,2.7,71.0,2.6,248,47.4,2.9,48.8,2.9
+333,333,.White alone,.White alone,964,950,667,69.2,2.0,70.2,2.0,463,48.0,2.1,48.7,2.1
+334,334,..White non-Hispanic alone,..White non-Hispanic alone,952,941,661,69.5,2.0,70.3,2.0,462,48.5,2.1,49.1,2.1
+335,335,.Black alone,.Black alone,10,8,4,(B),(B),(B),(B),3,(B),(B),(B),(B)
+336,336,.Asian alone,.Asian alone,27,13,7,(B),(B),(B),(B),6,(B),(B),(B),(B)
+337,337,.Hispanic (of any race),.Hispanic (of any race),15,13,6,(B),(B),(B),(B),2,(B),(B),(B),(B)
+338,338,.White alone or in combination,.White alone or in combination,977,962,675,69.1,2.0,70.2,1.9,468,48.0,2.1,48.7,2.1
+339,339,.Black alone or in combination ,.Black alone or in combination ,13,11,6,(B),(B),(B),(B),4,(B),(B),(B),(B)
+340,340,.Asian alone or in combination,.Asian alone or in combination,29,15,9,(B),(B),(B),(B),7,(B),(B),(B),(B)
+341,341,NEW_JERSEY-Total,NEW_JERSEY-Total,"6,488","5,563","3,487",53.7,1.7,62.7,1.6,"2,406",37.1,1.6,43.3,1.7
+342,342,.Male,.Male,"3,114","2,652","1,600",51.4,2.4,60.3,2.4,"1,121",36.0,2.3,42.3,2.4
+343,343,.Female,.Female,"3,374","2,910","1,887",55.9,2.3,64.8,2.2,"1,285",38.1,2.3,44.1,2.3
+344,344,.White alone,.White alone,"5,025","4,432","2,927",58.2,1.9,66.0,1.8,"2,037",40.5,1.9,46.0,1.9
+345,345,..White non-Hispanic alone,..White non-Hispanic alone,"4,107","3,948","2,676",65.2,2.0,67.8,2.0,"1,875",45.7,2.1,47.5,2.1
+346,346,.Black alone,.Black alone,855,735,359,42.0,5.5,48.9,5.6,267,31.2,5.2,36.3,5.4
+347,347,.Asian alone,.Asian alone,543,356,181,33.3,6.9,50.8,7.3,96,17.7,5.6,27.0,6.5
+348,348,.Hispanic (of any race),.Hispanic (of any race),960,507,258,26.9,6.1,51.0,6.9,165,17.2,5.2,32.6,6.4
+349,349,.White alone or in combination,.White alone or in combination,"5,048","4,456","2,938",58.2,1.9,65.9,1.8,"2,041",40.4,1.9,45.8,1.9
+350,350,.Black alone or in combination ,.Black alone or in combination ,866,746,370,42.7,5.5,49.6,5.6,267,30.8,5.1,35.7,5.3
+351,351,.Asian alone or in combination,.Asian alone or in combination,555,368,181,32.6,6.8,49.1,7.3,96,17.4,5.5,26.1,6.4
+352,352,NEW_MEXICO-Total,NEW_MEXICO-Total,"1,436","1,346",951,66.2,2.4,70.6,2.3,731,50.9,2.5,54.3,2.5
+353,353,.Male,.Male,688,645,450,65.5,3.5,69.8,3.4,343,49.9,3.7,53.2,3.6
+354,354,.Female,.Female,748,700,500,66.9,3.3,71.4,3.2,387,51.8,3.5,55.3,3.5
+355,355,.White alone,.White alone,"1,231","1,157",827,67.2,2.6,71.5,2.5,641,52.1,2.7,55.4,2.7
+356,356,..White non-Hispanic alone,..White non-Hispanic alone,728,722,550,75.5,3.1,76.1,3.0,416,57.2,3.5,57.6,3.5
+357,357,.Black alone,.Black alone,36,35,18,(B),(B),(B),(B),10,(B),(B),(B),(B)
+358,358,.Asian alone,.Asian alone,28,14,9,(B),(B),(B),(B),6,(B),(B),(B),(B)
+359,359,.Hispanic (of any race),.Hispanic (of any race),519,450,289,55.7,6.6,64.2,6.3,233,44.9,6.6,51.7,6.6
+360,360,.White alone or in combination,.White alone or in combination,"1,245","1,170",839,67.4,2.5,71.7,2.4,650,52.2,2.7,55.5,2.7
+361,361,.Black alone or in combination ,.Black alone or in combination ,40,38,22,(B),(B),(B),(B),10,(B),(B),(B),(B)
+362,362,.Asian alone or in combination,.Asian alone or in combination,28,14,9,(B),(B),(B),(B),6,(B),(B),(B),(B)
+363,363,NEW_YORK-Total,NEW_YORK-Total,"14,376","12,701","8,143",56.6,1.2,64.1,1.1,"5,402",37.6,1.1,42.5,1.2
+364,364,.Male,.Male,"6,832","5,958","3,789",55.5,1.7,63.6,1.6,"2,495",36.5,1.6,41.9,1.7
+365,365,.Female,.Female,"7,544","6,743","4,354",57.7,1.6,64.6,1.6,"2,908",38.5,1.6,43.1,1.6
+366,366,.White alone,.White alone,"10,793","9,855","6,602",61.2,1.3,67.0,1.3,"4,397",40.7,1.3,44.6,1.4
+367,367,..White non-Hispanic alone,..White non-Hispanic alone,"9,064","8,695","6,032",66.5,1.4,69.4,1.4,"4,077",45.0,1.5,46.9,1.5
+368,368,.Black alone,.Black alone,"2,292","1,952","1,083",47.2,3.6,55.5,3.5,742,32.4,3.3,38.0,3.5
+369,369,.Asian alone,.Asian alone,"1,035",685,360,34.8,5.3,52.6,5.5,217,21.0,4.5,31.7,5.2
+370,370,.Hispanic (of any race),.Hispanic (of any race),"2,054","1,392",682,33.2,4.6,49.0,4.9,390,19.0,3.8,28.0,4.4
+371,371,.White alone or in combination,.White alone or in combination,"10,961","9,986","6,686",61.0,1.3,67.0,1.3,"4,443",40.5,1.3,44.5,1.3
+372,372,.Black alone or in combination ,.Black alone or in combination ,"2,385","2,014","1,120",46.9,3.5,55.6,3.5,762,31.9,3.3,37.8,3.4
+373,373,.Asian alone or in combination,.Asian alone or in combination,"1,061",705,370,34.9,5.2,52.5,5.5,220,20.7,4.4,31.2,5.1
+374,374,NORTH_CAROLINA-Total,NORTH_CAROLINA-Total,"6,490","6,013","4,160",64.1,1.8,69.2,1.7,"2,422",37.3,1.8,40.3,1.8
+375,375,.Male,.Male,"3,117","2,819","1,890",60.6,2.6,67.1,2.5,"1,180",37.9,2.6,41.9,2.6
+376,376,.Female,.Female,"3,373","3,194","2,270",67.3,2.4,71.1,2.3,"1,242",36.8,2.4,38.9,2.5
+377,377,.White alone,.White alone,"4,980","4,555","3,281",65.9,2.0,72.0,1.9,"1,994",40.0,2.0,43.8,2.1
+378,378,..White non-Hispanic alone,..White non-Hispanic alone,"4,579","4,503","3,256",71.1,2.0,72.3,1.9,"1,986",43.4,2.2,44.1,2.2
+379,379,.Black alone,.Black alone,"1,284","1,266",785,61.1,4.9,62.0,4.8,408,31.8,4.6,32.2,4.7
+380,380,.Asian alone,.Asian alone,68,42,22,(B),(B),(B),(B),9,(B),(B),(B),(B)
+381,381,.Hispanic (of any race),.Hispanic (of any race),418,67,32,7.8,6.1,(B),(B),9,2.1,3.2,(B),(B)
+382,382,.White alone or in combination,.White alone or in combination,"5,049","4,619","3,312",65.6,2.0,71.7,1.9,"2,002",39.6,2.0,43.3,2.1
+383,383,.Black alone or in combination ,.Black alone or in combination ,"1,304","1,286",797,61.1,4.8,62.0,4.8,408,31.3,4.6,31.7,4.6
+384,384,.Asian alone or in combination,.Asian alone or in combination,81,50,27,33.5,19.6,(B),(B),14,17.7,15.8,(B),(B)
+385,385,NORTH_DAKOTA-Total,NORTH_DAKOTA-Total,484,475,397,82.0,1.8,83.6,1.7,259,53.4,2.3,54.4,2.3
+386,386,.Male,.Male,238,234,192,80.5,2.6,82.2,2.5,127,53.2,3.3,54.3,3.3
+387,387,.Female,.Female,246,241,205,83.4,2.4,84.9,2.3,132,53.6,3.2,54.6,3.2
+388,388,.White alone,.White alone,439,435,362,82.5,1.8,83.2,1.8,240,54.7,2.4,55.2,2.4
+389,389,..White non-Hispanic alone,..White non-Hispanic alone,434,431,359,82.8,1.8,83.3,1.8,239,55.1,2.4,55.5,2.4
+390,390,.Black alone,.Black alone,1,1,1,(B),(B),(B),(B),-,(B),(B),(B),(B)
+391,391,.Asian alone,.Asian alone,7,2,1,(B),(B),(B),(B),-,(B),(B),(B),(B)
+392,392,.Hispanic (of any race),.Hispanic (of any race),6,4,3,(B),(B),(B),(B),1,(B),(B),(B),(B)
+393,393,.White alone or in combination,.White alone or in combination,447,442,368,82.3,1.8,83.1,1.8,242,54.2,2.4,54.7,2.4
+394,394,.Black alone or in combination ,.Black alone or in combination ,2,2,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+395,395,.Asian alone or in combination,.Asian alone or in combination,8,2,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+396,396,OHIO-Total,OHIO-Total,"8,508","8,319","5,919",69.6,1.5,71.2,1.5,"4,408",51.8,1.6,53.0,1.6
+397,397,.Male,.Male,"4,072","3,987","2,759",67.8,2.2,69.2,2.2,"2,051",50.4,2.4,51.4,2.4
+398,398,.Female,.Female,"4,436","4,331","3,160",71.2,2.0,73.0,2.0,"2,357",53.1,2.2,54.4,2.2
+399,399,.White alone,.White alone,"7,351","7,251","5,212",70.9,1.6,71.9,1.6,"3,936",53.5,1.7,54.3,1.7
+400,400,..White non-Hispanic alone,..White non-Hispanic alone,"7,165","7,105","5,120",71.5,1.6,72.1,1.6,"3,886",54.2,1.8,54.7,1.8
+401,401,.Black alone,.Black alone,926,891,593,64.1,5.7,66.6,5.6,397,42.9,5.9,44.5,5.9
+402,402,.Asian alone,.Asian alone,128,73,35,27.8,15.0,(B),(B),25,19.5,13.3,(B),(B)
+403,403,.Hispanic (of any race),.Hispanic (of any race),216,171,112,52.1,16.0,65.8,15.2,58,27.0,14.3,34.1,15.2
+404,404,.White alone or in combination,.White alone or in combination,"7,433","7,332","5,276",71.0,1.6,72.0,1.6,"3,977",53.5,1.7,54.2,1.7
+405,405,.Black alone or in combination ,.Black alone or in combination ,972,937,631,64.9,5.6,67.3,5.5,421,43.4,5.8,45.0,5.8
+406,406,.Asian alone or in combination,.Asian alone or in combination,130,76,38,29.2,15.1,50.3,16.6,27,21.1,13.6,36.3,16.0
+407,407,OKLAHOMA-Total,OKLAHOMA-Total,"2,616","2,539","1,776",67.9,2.2,70.0,2.1,"1,174",44.9,2.3,46.2,2.3
+408,408,.Male,.Male,"1,253","1,217",833,66.5,3.2,68.4,3.1,561,44.7,3.4,46.1,3.4
+409,409,.Female,.Female,"1,363","1,321",943,69.2,3.0,71.4,2.9,613,45.0,3.2,46.4,3.2
+410,410,.White alone,.White alone,"2,064","2,005","1,494",72.4,2.4,74.5,2.3,995,48.2,2.6,49.6,2.6
+411,411,..White non-Hispanic alone,..White non-Hispanic alone,"1,959","1,944","1,460",74.5,2.4,75.1,2.3,978,49.9,2.7,50.3,2.7
+412,412,.Black alone,.Black alone,188,185,100,53.5,10.6,54.2,10.5,72,38.1,10.3,38.6,10.3
+413,413,.Asian alone,.Asian alone,23,14,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+414,414,.Hispanic (of any race),.Hispanic (of any race),117,69,37,31.5,16.1,(B),(B),17,14.3,12.2,(B),(B)
+415,415,.White alone or in combination,.White alone or in combination,"2,247","2,184","1,599",71.1,2.3,73.2,2.2,"1,068",47.5,2.5,48.9,2.5
+416,416,.Black alone or in combination ,.Black alone or in combination ,195,193,100,51.4,10.4,52.0,10.4,72,36.6,10.0,37.0,10.0
+417,417,.Asian alone or in combination,.Asian alone or in combination,26,17,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+418,418,OREGON-Total,OREGON-Total,"2,802","2,680","1,924",68.7,2.0,71.8,2.0,"1,601",57.1,2.2,59.7,2.2
+419,419,.Male,.Male,"1,373","1,299",930,67.7,2.9,71.6,2.8,749,54.6,3.1,57.7,3.1
+420,420,.Female,.Female,"1,429","1,381",995,69.6,2.8,72.0,2.8,851,59.6,3.0,61.7,3.0
+421,421,.White alone,.White alone,"2,578","2,490","1,807",70.1,2.1,72.6,2.0,"1,518",58.9,2.3,61.0,2.2
+422,422,..White non-Hispanic alone,..White non-Hispanic alone,"2,443","2,410","1,758",72.0,2.1,73.0,2.1,"1,482",60.7,2.3,61.5,2.3
+423,423,.Black alone,.Black alone,39,37,16,(B),(B),(B),(B),16,(B),(B),(B),(B)
+424,424,.Asian alone,.Asian alone,71,57,36,(B),(B),(B),(B),18,(B),(B),(B),(B)
+425,425,.Hispanic (of any race),.Hispanic (of any race),169,98,57,33.9,13.3,58.0,13.9,42,25.1,12.2,43.0,14.0
+426,426,.White alone or in combination,.White alone or in combination,"2,649","2,552","1,851",69.9,2.1,72.5,2.0,"1,551",58.5,2.2,60.8,2.2
+427,427,.Black alone or in combination ,.Black alone or in combination ,54,50,22,(B),(B),(B),(B),22,(B),(B),(B),(B)
+428,428,.Asian alone or in combination,.Asian alone or in combination,81,67,43,52.5,16.3,(B),(B),25,30.3,15.0,(B),(B)
+429,429,PENNSYLVANIA-Total,PENNSYLVANIA-Total,"9,436","9,234","5,991",63.5,1.4,64.9,1.4,"4,394",46.6,1.5,47.6,1.5
+430,430,.Male,.Male,"4,492","4,390","2,826",62.9,2.1,64.4,2.1,"2,091",46.6,2.1,47.6,2.1
+431,431,.Female,.Female,"4,944","4,844","3,165",64.0,2.0,65.3,1.9,"2,302",46.6,2.0,47.5,2.0
+432,432,.White alone,.White alone,"8,373","8,229","5,489",65.6,1.5,66.7,1.5,"4,027",48.1,1.6,48.9,1.6
+433,433,..White non-Hispanic alone,..White non-Hispanic alone,"8,121","8,007","5,396",66.4,1.5,67.4,1.5,"3,967",48.9,1.6,49.5,1.6
+434,434,.Black alone,.Black alone,900,859,432,48.1,5.8,50.3,5.8,305,33.9,5.5,35.4,5.6
+435,435,.Asian alone,.Asian alone,101,84,39,38.6,17.6,46.5,18.0,36,36.0,17.3,43.3,17.9
+436,436,.Hispanic (of any race),.Hispanic (of any race),312,274,119,38.1,12.4,43.3,12.7,77,24.7,11.0,28.1,11.5
+437,437,.White alone or in combination,.White alone or in combination,"8,427","8,283","5,515",65.4,1.5,66.6,1.5,"4,048",48.0,1.6,48.9,1.6
+438,438,.Black alone or in combination ,.Black alone or in combination ,914,874,436,47.7,5.8,49.9,5.8,309,33.7,5.5,35.3,5.5
+439,439,.Asian alone or in combination,.Asian alone or in combination,124,107,42,33.8,15.4,39.1,15.9,39,31.6,15.2,36.6,15.7
+440,440,RHODE_ISLAND-Total,RHODE_ISLAND-Total,806,733,536,66.6,1.9,73.2,1.8,431,53.5,2.0,58.8,2.0
+441,441,.Male,.Male,382,342,247,64.8,2.8,72.4,2.6,197,51.6,2.9,57.7,2.9
+442,442,.Female,.Female,424,391,289,68.2,2.6,74.0,2.4,234,55.1,2.7,59.8,2.7
+443,443,.White alone,.White alone,723,670,498,68.8,1.9,74.3,1.8,401,55.4,2.1,59.8,2.1
+444,444,..White non-Hispanic alone,..White non-Hispanic alone,657,635,479,73.0,2.0,75.5,1.9,386,58.8,2.2,60.9,2.2
+445,445,.Black alone,.Black alone,40,30,21,(B),(B),(B),(B),17,(B),(B),(B),(B)
+446,446,.Asian alone,.Asian alone,26,16,7,(B),(B),(B),(B),4,(B),(B),(B),(B)
+447,447,.Hispanic (of any race),.Hispanic (of any race),76,43,25,32.2,9.5,56.4,10.1,19,24.7,8.8,43.3,10.1
+448,448,.White alone or in combination,.White alone or in combination,734,681,505,68.8,1.9,74.2,1.8,406,55.3,2.1,59.6,2.0
+449,449,.Black alone or in combination ,.Black alone or in combination ,44,34,24,(B),(B),(B),(B),20,(B),(B),(B),(B)
+450,450,.Asian alone or in combination,.Asian alone or in combination,28,18,8,(B),(B),(B),(B),6,(B),(B),(B),(B)
+451,451,SOUTH_CAROLINA-Total,SOUTH_CAROLINA-Total,"3,197","3,043","1,986",62.1,2.2,65.2,2.2,"1,376",43.0,2.3,45.2,2.3
+452,452,.Male,.Male,"1,521","1,419",894,58.8,3.2,63.0,3.2,605,39.8,3.2,42.6,3.3
+453,453,.Female,.Female,"1,677","1,625","1,091",65.1,3.0,67.2,2.9,771,46.0,3.1,47.4,3.1
+454,454,.White alone,.White alone,"2,270","2,161","1,368",60.2,2.6,63.3,2.6,935,41.2,2.7,43.3,2.7
+455,455,..White non-Hispanic alone,..White non-Hispanic alone,"2,145","2,133","1,363",63.5,2.7,63.9,2.7,933,43.5,2.8,43.7,2.8
+456,456,.Black alone,.Black alone,858,828,582,67.8,5.0,70.3,4.9,419,48.9,5.3,50.6,5.3
+457,457,.Asian alone,.Asian alone,18,6,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+458,458,.Hispanic (of any race),.Hispanic (of any race),151,35,9,6.1,7.9,(B),(B),7,4.4,6.8,(B),(B)
+459,459,.White alone or in combination,.White alone or in combination,"2,302","2,193","1,392",60.5,2.6,63.4,2.6,947,41.1,2.6,43.2,2.7
+460,460,.Black alone or in combination ,.Black alone or in combination ,860,830,584,67.9,5.0,70.4,4.8,421,49.0,5.3,50.7,5.3
+461,461,.Asian alone or in combination,.Asian alone or in combination,21,6,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+462,462,SOUTH_DAKOTA-Total,SOUTH_DAKOTA-Total,577,569,445,77.2,1.8,78.2,1.7,358,62.1,2.1,63.0,2.0
+463,463,.Male,.Male,285,282,212,74.3,2.6,75.3,2.6,167,58.5,3.0,59.3,3.0
+464,464,.Female,.Female,292,288,233,80.0,2.4,81.1,2.3,191,65.6,2.8,66.6,2.8
+465,465,.White alone,.White alone,533,531,424,79.5,1.8,79.9,1.8,346,64.9,2.1,65.2,2.1
+466,466,..White non-Hispanic alone,..White non-Hispanic alone,525,523,420,80.0,1.8,80.3,1.8,343,65.4,2.1,65.6,2.1
+467,467,.Black alone,.Black alone,4,-,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+468,468,.Asian alone,.Asian alone,3,-,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+469,469,.Hispanic (of any race),.Hispanic (of any race),11,9,5,(B),(B),(B),(B),4,(B),(B),(B),(B)
+470,470,.White alone or in combination,.White alone or in combination,539,536,427,79.2,1.8,79.5,1.8,347,64.5,2.1,64.7,2.1
+471,471,.Black alone or in combination ,.Black alone or in combination ,5,1,1,(B),(B),(B),(B),-,(B),(B),(B),(B)
+472,472,.Asian alone or in combination,.Asian alone or in combination,3,-,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+473,473,TENNESSEE-Total,TENNESSEE-Total,"4,571","4,414","2,828",61.9,2.4,64.1,2.3,"2,003",43.8,2.4,45.4,2.4
+474,474,.Male,.Male,"2,199","2,107","1,268",57.7,3.5,60.2,3.4,927,42.2,3.5,44.0,3.5
+475,475,.Female,.Female,"2,372","2,307","1,560",65.7,3.2,67.6,3.2,"1,076",45.4,3.4,46.6,3.4
+476,476,.White alone,.White alone,"3,775","3,654","2,410",63.8,2.6,65.9,2.5,"1,723",45.6,2.7,47.2,2.7
+477,477,..White non-Hispanic alone,..White non-Hispanic alone,"3,646","3,619","2,401",65.9,2.6,66.3,2.6,"1,720",47.2,2.7,47.5,2.7
+478,478,.Black alone,.Black alone,697,684,373,53.5,7.5,54.6,7.5,268,38.5,7.3,39.3,7.3
+479,479,.Asian alone,.Asian alone,19,19,9,(B),(B),(B),(B),3,(B),(B),(B),(B)
+480,480,.Hispanic (of any race),.Hispanic (of any race),163,39,12,7.4,10.5,(B),(B),6,3.9,7.8,(B),(B)
+481,481,.White alone or in combination,.White alone or in combination,"3,813","3,692","2,431",63.8,2.6,65.8,2.5,"1,726",45.3,2.6,46.8,2.7
+482,482,.Black alone or in combination ,.Black alone or in combination ,711,697,381,53.7,7.4,54.7,7.4,271,38.1,7.2,38.9,7.3
+483,483,.Asian alone or in combination,.Asian alone or in combination,23,23,11,(B),(B),(B),(B),3,(B),(B),(B),(B)
+484,484,TEXAS-Total,TEXAS-Total,"16,512","14,406","9,676",58.6,1.3,67.2,1.2,"5,526",33.5,1.2,38.4,1.3
+485,485,.Male,.Male,"8,038","6,880","4,520",56.2,1.8,65.7,1.7,"2,569",32.0,1.7,37.3,1.8
+486,486,.Female,.Female,"8,474","7,526","5,156",60.8,1.8,68.5,1.7,"2,957",34.9,1.7,39.3,1.8
+487,487,.White alone,.White alone,"13,745","11,982","8,205",59.7,1.4,68.5,1.3,"4,711",34.3,1.3,39.3,1.4
+488,488,..White non-Hispanic alone,..White non-Hispanic alone,"8,608","8,458","6,154",71.5,1.6,72.8,1.6,"3,825",44.4,1.8,45.2,1.8
+489,489,.Black alone,.Black alone,"1,854","1,786","1,158",62.4,4.5,64.8,4.4,655,35.3,4.4,36.7,4.5
+490,490,.Asian alone,.Asian alone,533,319,137,25.8,7.9,43.0,9.0,77,14.4,6.4,24.1,7.7
+491,491,.Hispanic (of any race),.Hispanic (of any race),"5,407","3,719","2,160",40.0,3.5,58.1,3.5,945,17.5,2.7,25.4,3.1
+492,492,.White alone or in combination,.White alone or in combination,"13,979","12,181","8,321",59.5,1.4,68.3,1.3,"4,782",34.2,1.3,39.3,1.4
+493,493,.Black alone or in combination ,.Black alone or in combination ,"1,868","1,797","1,160",62.1,4.5,64.6,4.4,657,35.2,4.4,36.6,4.5
+494,494,.Asian alone or in combination,.Asian alone or in combination,546,330,141,25.8,7.8,42.8,8.8,77,14.1,6.2,23.3,7.6
+495,495,UTAH-Total,UTAH-Total,"1,753","1,641",932,53.1,2.3,56.8,2.3,603,34.4,2.2,36.7,2.2
+496,496,.Male,.Male,866,803,446,51.5,3.3,55.6,3.2,294,34.0,3.1,36.6,3.1
+497,497,.Female,.Female,888,838,485,54.7,3.2,57.9,3.2,309,34.8,3.1,36.8,3.1
+498,498,.White alone,.White alone,"1,637","1,549",910,55.6,2.4,58.7,2.3,588,35.9,2.3,38.0,2.3
+499,499,..White non-Hispanic alone,..White non-Hispanic alone,"1,476","1,461",876,59.3,2.4,60.0,2.4,562,38.1,2.4,38.5,2.4
+500,500,.Black alone,.Black alone,15,12,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+501,501,.Asian alone,.Asian alone,35,18,3,(B),(B),(B),(B),3,(B),(B),(B),(B)
+502,502,.Hispanic (of any race),.Hispanic (of any race),168,91,36,21.2,9.5,39.1,11.3,27,16.2,8.6,29.8,10.6
+503,503,.White alone or in combination,.White alone or in combination,"1,655","1,566",919,55.5,2.3,58.7,2.3,595,36.0,2.3,38.0,2.3
+504,504,.Black alone or in combination ,.Black alone or in combination ,19,16,3,(B),(B),(B),(B),3,(B),(B),(B),(B)
+505,505,.Asian alone or in combination,.Asian alone or in combination,40,23,4,(B),(B),(B),(B),3,(B),(B),(B),(B)
+506,506,VERMONT-Total,VERMONT-Total,491,479,345,70.2,1.9,71.9,1.9,273,55.5,2.1,56.9,2.1
+507,507,.Male,.Male,240,234,160,66.8,2.8,68.5,2.8,130,54.2,3.0,55.6,3.0
+508,508,.Female,.Female,252,245,185,73.4,2.6,75.2,2.5,143,56.8,2.9,58.2,2.9
+509,509,.White alone,.White alone,473,463,334,70.5,2.0,72.0,1.9,267,56.4,2.1,57.6,2.1
+510,510,..White non-Hispanic alone,..White non-Hispanic alone,469,460,332,70.8,2.0,72.0,1.9,265,56.6,2.1,57.6,2.1
+511,511,.Black alone,.Black alone,3,3,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+512,512,.Asian alone,.Asian alone,6,4,1,(B),(B),(B),(B),-,(B),(B),(B),(B)
+513,513,.Hispanic (of any race),.Hispanic (of any race),5,3,2,(B),(B),(B),(B),2,(B),(B),(B),(B)
+514,514,.White alone or in combination,.White alone or in combination,480,470,339,70.6,1.9,72.0,1.9,270,56.3,2.1,57.5,2.1
+515,515,.Black alone or in combination ,.Black alone or in combination ,4,4,3,(B),(B),(B),(B),-,(B),(B),(B),(B)
+516,516,.Asian alone or in combination,.Asian alone or in combination,7,4,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+517,517,VIRGINIA-Total,VIRGINIA-Total,"5,578","5,123","3,402",61.0,2.1,66.4,2.1,"2,431",43.6,2.2,47.5,2.2
+518,518,.Male,.Male,"2,623","2,372","1,555",59.3,3.1,65.5,3.0,"1,144",43.6,3.1,48.2,3.2
+519,519,.Female,.Female,"2,955","2,751","1,847",62.5,2.9,67.2,2.8,"1,287",43.6,3.0,46.8,3.0
+520,520,.White alone,.White alone,"4,228","3,927","2,768",65.5,2.4,70.5,2.3,"2,017",47.7,2.5,51.4,2.5
+521,521,..White non-Hispanic alone,..White non-Hispanic alone,"3,901","3,833","2,723",69.8,2.4,71.1,2.4,"1,988",51.0,2.6,51.9,2.6
+522,522,.Black alone,.Black alone,"1,026",988,534,52.0,6.1,54.1,6.1,355,34.6,5.8,35.9,5.9
+523,523,.Asian alone,.Asian alone,237,140,68,28.6,12.0,48.4,13.3,35,14.9,9.5,25.2,11.6
+524,524,.Hispanic (of any race),.Hispanic (of any race),349,102,51,14.5,9.6,49.4,13.6,33,9.4,8.0,31.9,12.7
+525,525,.White alone or in combination,.White alone or in combination,"4,284","3,966","2,788",65.1,2.4,70.3,2.3,"2,031",47.4,2.5,51.2,2.5
+526,526,.Black alone or in combination ,.Black alone or in combination ,"1,059","1,010",544,51.4,6.0,53.9,6.0,365,34.5,5.7,36.2,5.8
+527,527,.Asian alone or in combination,.Asian alone or in combination,253,150,74,29.2,11.7,49.2,12.9,39,15.6,9.3,26.3,11.3
+528,528,WASHINGTON-Total,WASHINGTON-Total,"4,745","4,405","3,090",65.1,2.1,70.2,2.0,"2,346",49.4,2.2,53.3,2.2
+529,529,.Male,.Male,"2,313","2,142","1,476",63.8,3.0,68.9,2.9,"1,103",47.7,3.1,51.5,3.1
+530,530,.Female,.Female,"2,432","2,263","1,614",66.4,2.8,71.3,2.7,"1,243",51.1,3.0,54.9,3.0
+531,531,.White alone,.White alone,"3,964","3,793","2,749",69.3,2.2,72.5,2.1,"2,132",53.8,2.4,56.2,2.3
+532,532,..White non-Hispanic alone,..White non-Hispanic alone,"3,711","3,622","2,664",71.8,2.2,73.5,2.2,"2,077",56.0,2.4,57.3,2.4
+533,533,.Black alone,.Black alone,142,114,43,30.5,13.9,37.8,14.7,25,17.7,11.5,22.0,12.5
+534,534,.Asian alone,.Asian alone,383,264,138,36.0,9.2,52.1,9.6,75,19.5,7.6,28.3,8.7
+535,535,.Hispanic (of any race),.Hispanic (of any race),295,198,97,32.7,12.8,48.9,13.6,63,21.5,11.2,32.1,12.7
+536,536,.White alone or in combination,.White alone or in combination,"4,117","3,940","2,864",69.6,2.1,72.7,2.1,"2,217",53.8,2.3,56.3,2.3
+537,537,.Black alone or in combination ,.Black alone or in combination ,175,148,65,37.3,13.2,44.3,13.5,38,21.6,11.2,25.6,11.9
+538,538,.Asian alone or in combination,.Asian alone or in combination,415,297,157,37.7,8.9,52.8,9.2,94,22.6,7.7,31.6,8.6
+539,539,WEST_VIRGINIA-Total,WEST_VIRGINIA-Total,"1,394","1,389",873,62.6,2.1,62.9,2.1,513,36.8,2.1,36.9,2.1
+540,540,.Male,.Male,669,664,404,60.4,3.1,60.8,3.1,245,36.6,3.1,36.9,3.1
+541,541,.Female,.Female,726,725,469,64.7,2.9,64.8,2.9,268,36.9,2.9,36.9,2.9
+542,542,.White alone,.White alone,"1,329","1,325",843,63.4,2.2,63.6,2.2,494,37.1,2.2,37.3,2.2
+543,543,..White non-Hispanic alone,..White non-Hispanic alone,"1,327","1,323",841,63.4,2.2,63.6,2.2,494,37.2,2.2,37.3,2.2
+544,544,.Black alone,.Black alone,44,44,18,(B),(B),(B),(B),11,(B),(B),(B),(B)
+545,545,.Asian alone,.Asian alone,5,4,1,(B),(B),(B),(B),1,(B),(B),(B),(B)
+546,546,.Hispanic (of any race),.Hispanic (of any race),3,2,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+547,547,.White alone or in combination,.White alone or in combination,"1,344","1,339",853,63.5,2.2,63.7,2.2,499,37.2,2.2,37.3,2.2
+548,548,.Black alone or in combination ,.Black alone or in combination ,48,48,21,(B),(B),(B),(B),11,(B),(B),(B),(B)
+549,549,.Asian alone or in combination,.Asian alone or in combination,6,5,2,(B),(B),(B),(B),1,(B),(B),(B),(B)
+550,550,WISCONSIN-Total,WISCONSIN-Total,"4,202","4,071","2,948",70.2,1.8,72.4,1.8,"2,352",56.0,2.0,57.8,1.9
+551,551,.Male,.Male,"2,041","1,973","1,377",67.5,2.7,69.8,2.6,"1,102",54.0,2.8,55.9,2.8
+552,552,.Female,.Female,"2,161","2,098","1,571",72.7,2.5,74.9,2.4,"1,250",57.9,2.7,59.6,2.7
+553,553,.White alone,.White alone,"3,845","3,754","2,748",71.5,1.9,73.2,1.8,"2,201",57.2,2.0,58.6,2.0
+554,554,..White non-Hispanic alone,..White non-Hispanic alone,"3,692","3,650","2,708",73.3,1.9,74.2,1.8,"2,180",59.0,2.1,59.7,2.1
+555,555,.Black alone,.Black alone,203,203,120,59.4,10.7,59.4,10.7,89,44.1,10.8,44.1,10.8
+556,556,.Asian alone,.Asian alone,63,24,14,(B),(B),(B),(B),9,(B),(B),(B),(B)
+557,557,.Hispanic (of any race),.Hispanic (of any race),173,120,58,33.3,14.4,47.9,15.3,36,20.8,12.4,29.9,14.0
+558,558,.White alone or in combination,.White alone or in combination,"3,886","3,795","2,786",71.7,1.8,73.4,1.8,"2,234",57.5,2.0,58.9,2.0
+559,559,.Black alone or in combination ,.Black alone or in combination ,227,227,142,62.8,9.9,62.8,9.9,109,48.1,10.3,48.1,10.3
+560,560,.Asian alone or in combination,.Asian alone or in combination,65,26,16,(B),(B),(B),(B),11,(B),(B),(B),(B)
+561,561,WYOMING-Total,WYOMING-Total,388,383,253,65.3,2.2,66.2,2.1,199,51.4,2.3,52.1,2.3
+562,562,.Male,.Male,192,189,123,63.8,3.1,64.8,3.1,94,48.9,3.2,49.7,3.2
+563,563,.Female,.Female,196,193,131,66.7,3.0,67.5,3.0,105,53.9,3.2,54.5,3.2
+564,564,.White alone,.White alone,372,367,247,66.3,2.2,67.2,2.2,195,52.5,2.3,53.2,2.3
+565,565,..White non-Hispanic alone,..White non-Hispanic alone,344,342,234,68.1,2.2,68.4,2.2,186,54.2,2.4,54.4,2.4
+566,566,.Black alone,.Black alone,3,3,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+567,567,.Asian alone,.Asian alone,2,1,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+568,568,.Hispanic (of any race),.Hispanic (of any race),30,27,13,(B),(B),(B),(B),9,(B),(B),(B),(B)
+569,569,.White alone or in combination,.White alone or in combination,380,376,250,65.7,2.2,66.6,2.2,198,52.0,2.3,52.7,2.3
+570,570,.Black alone or in combination ,.Black alone or in combination ,3,3,2,(B),(B),(B),(B),-,(B),(B),(B),(B)
+571,571,.Asian alone or in combination,.Asian alone or in combination,2,1,-,(B),(B),(B),(B),-,(B),(B),(B),(B)
+572,572,1This figure added to or subtracted from the estimate provides the 90-percent confidence interval.,1This figure added to or subtracted from the estimate provides the 90-percent confidence interval.,,,,,,,,,,,,
+573,573,"NOTE: The symbol (B) means that the base is less than 75,000 and therefore too small to show the derived measure.","NOTE: The symbol (B) means that the base is less than 75,000 and therefore too small to show the derived measure.",,,,,,,,,,,,
+574,574,"NOTE: "" - "" Represents zero or rounds to zero.","NOTE: "" - "" Represents zero or rounds to zero.",,,,,,,,,,,,
+575,575,"Separate estimates for the race group “White Non-Hispanic Alone or in Combination,” which were included in 2004, have been removed from this ","Separate estimates for the race group “White Non-Hispanic Alone or in Combination,” which were included in 2004, have been removed from this ",,,,,,,,,,,,
+576,576,table. Please contact the Education and Social Stratification Branch if you have any questions (301-763-2468),table. Please contact the Education and Social Stratification Branch if you have any questions (301-763-2468),,,,,,,,,,,,
+577,577,"Source: U.S. Census Bureau, Current Population Survey, November 2006.","Source: U.S. Census Bureau, Current Population Survey, November 2006.",,,,,,,,,,,,

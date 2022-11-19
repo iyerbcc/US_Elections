@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{ items['tab_name'] }}</title>
+    </head>
+      <body>
+        
+        <div align="center">
+            <table class="center">
+                <h3>
+                    {{ items['item_name'] }}
+                </h3>
+                <h1>
+                <!--Displaying the converted table-->
+                     {% for table in tables %}
+                    <h2>{{items[loop.index]}}</h2>                            
+                    {{ table  | safe}}
+                    {% endfor %}     
+                </h1> 
+            </table>
+        </div>
+        <div align="center">
+            <p>{{items['graph_name'] }}</p>
+            <!-- <img src="/plot.png" alt="my plot"> -->
+            <img src={{items['src']}}>
+
+        </div>
+  </body>
+  <style>
+    body {
+        background-color: dimgray ;
+        color:white
+    }
+    table.dataframe, .dataframe th, .dataframe td {
+        text-align:center;
+        padding: 5px;
+        margin-bottom: 5px;
+}
+  </style>
+</html>
